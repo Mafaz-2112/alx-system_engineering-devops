@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -R 777 */
+chomd -R a+x */
